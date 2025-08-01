@@ -1,2 +1,8 @@
-title: false
+title: ""
 show_downloads: false
+theme: minima
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
