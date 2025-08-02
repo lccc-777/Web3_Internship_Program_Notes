@@ -1,5 +1,5 @@
 ---
-githubID: "cmu-ruoyan-lgl" 
+githubID: "lccc-777" 
 path_proofForChallenges: "../ProofForChallenges/" 
 timeStamp: 1753977600 
 ---
