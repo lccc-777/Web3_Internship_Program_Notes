@@ -5,8 +5,8 @@ timeStamp: 1753977600
 ---
 
 
-## 这个页面是我用来完成web3-internship-program残酷共学创建的，记录一些常用的资料、学习笔记和任务清单。[点击查看原仓库](https://github.com/cmu-ruoyan-lgl/Web3_Internship_Program_Notes)
-
+## 这个页面是我用来完成web3-internship-program残酷共学创建的，记录一些常用的资料、学习笔记、工作机会、额外学习资料和任务清单。
+## 有需要的可以Fork一下原仓库，修改/docs/todo.md就可以一键提交任务完成了。[点击查看原仓库](https://github.com/cmu-ruoyan-lgl/Web3_Internship_Program_Notes)
 ### 常用link（目前整理了第一周用到的部分）
 
 - [残酷共学打卡页面](https://intensivecolearn.ing/programs/Web3_Internship_Program)
@@ -30,9 +30,11 @@ timeStamp: 1753977600
 - [ ] 参加周五实习计划例会并主动申请分享笔记或者感悟（**40 分**）[提交](https://tally.so/r/nGAXjQ?github={{page.githubID}}&task=%E9%80%9A%E7%94%A8%E4%BB%BB%E5%8A%A1%EF%BC%9A%E5%8F%82%E5%8A%A0%E5%91%A8%E4%BA%94%E5%AE%9E%E4%B9%A0%E8%AE%A1%E5%88%92%E4%BE%8B%E4%BC%9A%E5%B9%B6%E4%B8%BB%E5%8A%A8%E7%94%B3%E8%AF%B7%E5%88%86%E4%BA%AB%E7%AC%94%E8%AE%B0%E6%88%96%E8%80%85%E6%84%9F%E6%82%9F%EF%BC%8840%20%E5%88%86%EF%BC%89&point=40)
 - [ ] 参加知识分享会（**20 分**）[提交](https://tally.so/r/nGAXjQ?github={{page.githubID}}&task=%E9%80%9A%E7%94%A8%E4%BB%BB%E5%8A%A1%EF%BC%9A%E5%8F%82%E5%8A%A0%E7%9F%A5%E8%AF%86%E5%88%86%E4%BA%AB%E4%BC%9A%EF%BC%8820%20%E5%88%86%EF%BC%89&point=20)
 - [ ] 未参加知识分享会，但是查看回放并且记录笔记（**15 分**）[提交](https://tally.so/r/nGAXjQ?github={{page.githubID}}&task=%E9%80%9A%E7%94%A8%E4%BB%BB%E5%8A%A1%EF%BC%9A%E6%9C%AA%E5%8F%82%E5%8A%A0%E7%9F%A5%E8%AF%86%E5%88%86%E4%BA%AB%E4%BC%9A%EF%BC%8C%E4%BD%86%E6%98%AF%E6%9F%A5%E7%9C%8B%E5%9B%9E%E6%94%BE%E5%B9%B6%E4%B8%94%E8%AE%B0%E5%BD%95%E7%AC%94%E8%AE%B0%EF%BC%8815%20%E5%88%86%EF%BC%89&point=15)
-- [ ] 整理一篇优秀学习笔记（**10 分**）[提交](https://tally.so/r/nGAXjQ?github={{page.githubID}}&task=%E9%80%9A%E7%94%A8%E4%BB%BB%E5%8A%A1%EF%BC%9A%E6%95%B4%E7%90%86%E4%B8%80%E7%AF%87%E4%BC%98%E7%A7%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%8810%20%E5%88%86%EF%BC%89&point=10)
+- [ ] 每周整理一篇优秀学习笔记（**10 分**）[提交](https://tally.so/r/nGAXjQ?github={{page.githubID}}&task=%E9%80%9A%E7%94%A8%E4%BB%BB%E5%8A%A1%EF%BC%9A%E6%95%B4%E7%90%86%E4%B8%80%E7%AF%87%E4%BC%98%E7%A7%80%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%8810%20%E5%88%86%EF%BC%89&point=10)
 
 ### 主线任务（完成后点击即可直接提交得分和任务证明,可修改todo.md标注完成任务项）
+
+#### 第一周（2025/8/1 - 2025/8/7）
 - [x] 完成报名并加入「残酷共学」（**10 分**）[提交](https://tally.so/r/nGAXjQ?github={{page.githubID}}&task=%E7%AC%AC%200%20%E5%91%A8%EF%BC%9A%E5%AE%8C%E6%88%90%E6%8A%A5%E5%90%8D%E5%B9%B6%E5%8A%A0%E5%85%A5%E3%80%8C%E6%AE%8B%E9%85%B7%E5%85%B1%E5%AD%A6%E3%80%8D%EF%BC%8810%20%E5%88%86%EF%BC%89&point=10)
 - [x] 参加开营仪式（**20 分**）[提交](https://tally.so/r/nGAXjQ?github={{page.githubID}}&task=%E7%AC%AC%200%20%E5%91%A8%EF%BC%9A%E5%BC%80%E8%90%A5%E4%BB%AA%E5%BC%8F%EF%BC%8820%20%E5%88%86%EF%BC%89&point=20)
 - [x] 学习使用 Google Calendar，并且订阅本次实习计划的公共日历（**10 分**）[提交](https://tally.so/r/nGAXjQ?github={{page.githubID}}&task=%E7%AC%AC%200%20%E5%91%A8%EF%BC%9A%E5%AD%A6%E4%B9%A0%E4%BD%BF%E7%94%A8%20Google%20Calendar%EF%BC%8C%E5%B9%B6%E4%B8%94%E8%AE%A2%E9%98%85%E6%9C%AC%E6%AC%A1%E5%AE%9E%E4%B9%A0%E8%AE%A1%E5%88%92%E7%9A%84%E5%85%AC%E5%85%B1%E6%97%A5%E5%8E%86%EF%BC%8810%20%E5%88%86%EF%BC%89&point=10)
